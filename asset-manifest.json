@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myfirstappinworkshop/static/css/main.7dd0a832.chunk.css",
+    "main.js": "/myfirstappinworkshop/static/js/main.a608d43d.chunk.js",
+    "main.js.map": "/myfirstappinworkshop/static/js/main.a608d43d.chunk.js.map",
+    "runtime-main.js": "/myfirstappinworkshop/static/js/runtime-main.10d03339.js",
+    "runtime-main.js.map": "/myfirstappinworkshop/static/js/runtime-main.10d03339.js.map",
+    "static/js/2.d48d3321.chunk.js": "/myfirstappinworkshop/static/js/2.d48d3321.chunk.js",
+    "static/js/2.d48d3321.chunk.js.map": "/myfirstappinworkshop/static/js/2.d48d3321.chunk.js.map",
+    "static/js/3.ff0bd441.chunk.js": "/myfirstappinworkshop/static/js/3.ff0bd441.chunk.js",
+    "static/js/3.ff0bd441.chunk.js.map": "/myfirstappinworkshop/static/js/3.ff0bd441.chunk.js.map",
+    "index.html": "/myfirstappinworkshop/index.html",
+    "static/css/main.7dd0a832.chunk.css.map": "/myfirstappinworkshop/static/css/main.7dd0a832.chunk.css.map",
+    "static/js/2.d48d3321.chunk.js.LICENSE.txt": "/myfirstappinworkshop/static/js/2.d48d3321.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/myfirstappinworkshop/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10d03339.js",
+    "static/js/2.d48d3321.chunk.js",
+    "static/css/main.7dd0a832.chunk.css",
+    "static/js/main.a608d43d.chunk.js"
+  ]
+}
